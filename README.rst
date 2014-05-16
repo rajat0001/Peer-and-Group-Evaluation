@@ -7,7 +7,8 @@ README
 What is this project for ?
 5
 --------------------------
-6
+6 subheading
+^^^^^^^^^^^
 7
 This project will create an application in which students can evaluate themselves.
 
