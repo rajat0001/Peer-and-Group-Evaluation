@@ -13,4 +13,10 @@ void Test
 	{
 		System.out.println(x+' '+y);
 	}
+	
+	public static void main(String[] args)
+	{
+		System.out.println("\nThis is the main method. Welcome to IIT Bombay!!! ");
+	}
+	
 }
